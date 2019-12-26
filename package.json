@@ -1,0 +1,34 @@
+{
+  "name": "mocha-repeater",
+  "version": "1.0.0",
+  "description": "A simple helper which iterates mocha describe and/or it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngavishtech/mocha-repeater.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngavishtech/mocha-repeater/issues"
+  },
+  "homepage": "https://github.com/ngavishtech/mocha-repeater#readme",
+  "keywords": [
+    "mocha",
+    "retry",
+    "repeat",
+    "repeater",
+    "mocha-retry",
+    "mocha-repeat",
+    "mocha-repeater"
+  ],
+  "author": "Nir Gavish",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "sinon": "^8.0.1",
+    "sinon-chai": "^3.4.0"
+  }
+}
