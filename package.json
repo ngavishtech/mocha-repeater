@@ -27,8 +27,8 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.2",
-    "sinon": "^8.0.1",
-    "sinon-chai": "^3.4.0"
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.1",
+    "sinon-chai": "^3.5.0"
   }
 }
